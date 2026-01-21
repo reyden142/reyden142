@@ -14,11 +14,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **BS Electronics Engineering (ECE) student**
+- 🎓 **BS Electronics Engineering (ECE) graduate**
 - 🧠 Strong interest in **systems, databases, and backend architecture**
-- 💻 Building a **Redis-like In-Memory Data Store** from scratch using **Node.js**
-- 🎬 **Video Editor** with almost **5 years of experience**
-- 🎨 Specialized in **Adobe After Effects & Premiere Pro**
 - 🚀 Passionate about learning, building, and improving real-world systems
 
 ---
