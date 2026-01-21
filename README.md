@@ -113,6 +113,8 @@
 - Built from scratch with a **modular and scalable architecture**
 - Emphasizes structured backend workflows and communication reliability
 
+---
+
 ### 🎬 Video Management Platform
 - Backend API for:
   - Secure video upload & processing
