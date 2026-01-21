@@ -14,9 +14,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **BS Electronics Engineering (ECE) graduate**
-- 🧠 Strong interest in **systems, databases, and backend architecture**
-- 🚀 Passionate about learning, building, and improving real-world systems
+- 🎓 **Licensed Electronics Engineer (ECE)**
+- 🧠 Strong focus on **distributed systems, databases, backend architecture, and real-time applications**
+- 🏗️ Experienced in building **full-stack and system-level projects from scratch**
+- 🚀 Passionate about learning, engineering scalable solutions, and solving real-world problems
 
 ---
 
@@ -27,35 +28,51 @@
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3)
 
 ---
 
-### 🌐 Web & Backend Development
+### 🌐 Web, Backend & Systems
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js)
+![Meteor](https://img.shields.io/badge/Meteor-black?style=flat-square&logo=meteor)
 ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express)
 ![REST API](https://img.shields.io/badge/REST%20API-black?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-black?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-black?style=flat-square)
 
 ---
 
-### 🗄️ Databases & Storage
+### 🗄️ Databases, Messaging & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
-![In--Memory DB](https://img.shields.io/badge/In--Memory%20Data%20Store-black?style=flat-square)
+![MiniMongo](https://img.shields.io/badge/MiniMongo-black?style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-black?style=flat-square&logo=rabbitmq)
+![ETCD](https://img.shields.io/badge/ETCD-black?style=flat-square)
+![MinIO](https://img.shields.io/badge/MinIO-black?style=flat-square)
 
 ---
 
-### ⚙️ Dev Tools & Platforms
+### ⚙️ DevOps, Deployment & Security
+![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+![NGINX](https://img.shields.io/badge/NGINX-black?style=flat-square&logo=nginx)
 ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=flat-square&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-black?style=flat-square)
-![Redis Insight](https://img.shields.io/badge/Redis%20Insight-black?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
+![SSL](https://img.shields.io/badge/SSL-black?style=flat-square)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-black?style=flat-square)
+![IPTables](https://img.shields.io/badge/IPTables-black?style=flat-square)
 
 ---
 
-### 🎬 Creative & Multimedia Tools
+### 🎥 Streaming, Media & Creative Tools
+![FFmpeg](https://img.shields.io/badge/FFmpeg-black?style=flat-square)
+![HLS](https://img.shields.io/badge/HLS-black?style=flat-square)
+![DASH](https://img.shields.io/badge/DASH-black?style=flat-square)
 ![After Effects](https://img.shields.io/badge/After%20Effects-black?style=flat-square&logo=adobeaftereffects)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-black?style=flat-square&logo=adobepremierepro)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=flat-square&logo=adobephotoshop)
@@ -65,27 +82,67 @@
 ## 🚀 Featured Projects
 
 ### 🔴 Redis-like In-Memory Data Store
-> A custom-built Redis-inspired database using Node.js
+> Custom-built Redis-inspired database implemented in Node.js
 
-**Features:**
-- Strings, Lists, Sets, Hashes, Sorted Sets
-- Bitmaps, Bitfields, HyperLogLog
-- Pub/Sub, Transactions (MULTI/EXEC)
-- Replication (Master–Slave)
-- Persistence (AOF & Snapshot)
-- Vector Similarity Search
-- Document Database Capabilities
+**Key Features**
+- Master–slave replication
+- Persistence (AOF & snapshots)
+- Transactions (MULTI / EXEC)
+- Pub/Sub messaging
+- Advanced data types (Bitmaps, Bitfields, HyperLogLog)
+- Vector similarity search
+- Document database capabilities
 
 📌 Repository: **`CommsApp`**
 
 ---
 
-## 🎥 Video Editing Experience
+### 📍 SMART-TRACE (Thesis Project)
+**A Combined RFID & WiFi-RSSI Indoor Positioning System for Disaster Management**
 
-- 📹 Educational & marketing videos
-- 🎯 Direct-response style ads
-- ✂️ Clean cuts, smooth transitions, motion graphics
-- ⏱️ Deadline-driven with clear client communication
+- Designed an **indoor positioning system** using:
+  - WiFi RSSI fingerprinting
+  - RFID
+  - Machine learning
+- Enables accurate **smartphone user localization** for indoor disaster response scenarios
+
+---
+
+### 📡 Omni-Channel Communication App
+- Unified platform supporting **chat, SMS, voice calls, and email**
+- Built from scratch with a **modular and scalable architecture**
+- Emphasizes structured backend workflows and communication reliability
+
+### 🎬 Video Management Platform
+- Backend API for:
+  - Secure video upload & processing
+  - Streaming via **HLS**
+  - Token-based authentication
+  - Metadata management
+- Integrated **FFmpeg**, **MinIO**, and **Redis**
+
+---
+
+### 💳 Full-Stack Stripe Integration App
+- React + Node.js + MongoDB
+- Stripe Checkout, invoices, discount codes
+- OAuth Connect for testing and learning payment flows
+- Secure JWT-based authentication
+
+---
+
+## 🏢 Industry Experience & Technologies Learned
+
+- **Frameworks & Systems:** Meteor 3, React, Node.js
+- **Databases & Messaging:** MongoDB, Redis, MiniMongo, RabbitMQ, ETCD
+- **Protocols & APIs:** gRPC, REST, JWT
+- **DevOps & Deployment:** Docker, Portainer, NGINX, Nexus Repository
+- **Streaming & Media:** HLS, DASH, FFmpeg, MinIO
+- **Security:** SSL, Fail2Ban, IP Tables
+- **Architecture & Docs:** Microservices, Sequence Diagrams, Mermaid
+- **Debugging:** Chrome DevTools, Node.js, Meteor
+- **Integrations & Automation:** Stripe, Shopify, n8n
+- **Data & AI:** Machine Learning, Google Trends, GDELT, Reddit API, DALL·E
 
 ---
 
@@ -104,7 +161,7 @@
 ## 🤝 Let's Connect
 
 - 📫 Email: **reydencagata@gmail.com**
-- 💡 Open to collaborations in **software, systems, and creative projects**
+- 💡 Open to collaborations in **systems engineering, backend development, and full-stack projects**
 
 ---
 
