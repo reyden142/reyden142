@@ -155,7 +155,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyden142&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyden142&layout=compact&theme=dark&langs_count=6" />
 </p>
 
 ---
