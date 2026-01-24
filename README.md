@@ -93,7 +93,7 @@
 - Vector similarity search
 - Document database capabilities
 
-📌 Repository: **`CommsApp`**
+📌 Repository: **`Building-a-Redis-like-In-Memory-Data-Store`**
 
 ---
 
@@ -106,12 +106,17 @@
   - Machine learning
 - Enables accurate **smartphone user localization** for indoor disaster response scenarios
 
+📌 Repository: **`SMART-TRACE`**
+📌 Repository: **`RFID-IPS`**
+
 ---
 
 ### 📡 Omni-Channel Communication App
 - Unified platform supporting **chat, SMS, voice calls, and email**
 - Built from scratch with a **modular and scalable architecture**
 - Emphasizes structured backend workflows and communication reliability
+
+📌 Repository: **`CommsApp`**
 
 ---
 
