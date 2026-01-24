@@ -106,8 +106,7 @@
   - Machine learning
 - Enables accurate **smartphone user localization** for indoor disaster response scenarios
 
-📌 Repository: **`SMART-TRACE`**
-📌 Repository: **`RFID-IPS`**
+📌 Repository: **`SMART-TRACE`** **`RFID-IPS`**
 
 ---
 
