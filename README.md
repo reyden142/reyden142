@@ -157,7 +157,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyden142&layout=compact&theme=dark&langs_count=6&cache_seconds=86400&hide_progress=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyden142&layout=compact&theme=dark" />
 </p>
 
 ---
