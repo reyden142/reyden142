@@ -157,6 +157,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,sql" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyden142&layout=compact&theme=dark" />
 </p>
 
