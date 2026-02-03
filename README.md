@@ -26,6 +26,7 @@
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
 ![C](https://img.shields.io/badge/C-black?style=flat-square&logo=c)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
@@ -46,6 +47,7 @@
 ---
 
 ### 🗄️ Databases, Messaging & Storage
+![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
 ![MiniMongo](https://img.shields.io/badge/MiniMongo-black?style=flat-square)
